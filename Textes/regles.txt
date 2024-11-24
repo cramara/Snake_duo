@@ -1,0 +1,25 @@
+                              Bienvenue dans ce Snake
+
+Le jeu reprend le Snake classique, où un serpent doit aller manger des pommes 
+sans se prendre sa queue ou les murs, et l'améliore grandement.
+Il vous est possible de jouer à 2 sur un même ordinateur, 
+le premier joueur utilisant les flèches directionnelles pour se diriger,
+le deuxième joueur controlant son serpent avec les touches ZQSD.
+Si vous ne vous sentez pas de jouer, ou bien que vous voulez vous confronter à votre ordinateur, 
+il vous est possible de jouer contre un Bot, ou même de faire s'affronter deux Bots.
+Il en existe plusieurs types, qui, rangés par intelligence, sont : 
+le Bot Intermédiaire, le Bot Astar, et le Bot Smart.
+Il existe aussi une version méchante de ce bot, le Killer Bot, 
+qui essaiera de vous mettre de bâtons dans les roues pendant que vous jouez.
+Vous pourrez voir ou non le chemin que le bot va emprunter
+en appuyant sur la route à droite de votre écran.
+Si vous avez peu de temps devant vous, il est également possible d'augmenter la 
+vitesse du jeu, ou de la réduire si vous n'arrivez pas à suivre le rythme.
+Pour choisir votre mode de jeu, cliquez sur Jouer, sur le nombre 
+de joueurs que vous voulez, leur type, et ajustez la vitesse à votre convenance.
+Lorsque vous aurez fini votre partie, il vous sera possible de relancer directement 
+une même partie, ainsi que de l'enregistrer si vous voulez la regarder à nouveau.
+A noter qu'il vous est toujours possible de revenir au menu principal, 
+si vous en avez marre de ces serpents.
+Pour regarder vos meilleures parties, il vous suffira de cliquer sur Replay, 
+de choisir le fichier qui vous intéresse, et de le lancer.
