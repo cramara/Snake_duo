@@ -21,16 +21,12 @@ class Player :
 
     def up(self,event):
         self.change_direction('up')
-        print('up')
     def down(self,event):
         self.change_direction('down')
-        print('down')
     def right(self,event):
         self.change_direction('right')
-        print('right')
     def left(self,event):
         self.change_direction('left')
-        print('left')
 
     def change_direction(self, direction_target) :
         if self.direction == 'up' and direction_target != 'down' :
